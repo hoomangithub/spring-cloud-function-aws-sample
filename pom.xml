@@ -157,7 +157,7 @@
 							<filters>
 								<filter>
 									<excludes>
-										<exclude>hooman.spring.cloud.function.example/**</exclude>
+										<exclude>hooman/**</exclude>
 										<exclude>*properties</exclude>
 										<exclude>*xml</exclude>
 									</excludes>
