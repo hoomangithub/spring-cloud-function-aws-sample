@@ -1,0 +1,14 @@
+.idea/
+.settings/
+gradle/
+target/
+.classpath
+.factorypath
+.jdk8
+.project
+build.gradle
+gradlew
+gradlew.bat
+*.log
+*.gz
+*.jar
